@@ -1,0 +1,13 @@
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\CafeReadModels.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\CafeReadModels.pdb
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\Edument.CQRS.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\Events.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\nunit.framework.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\Edument.CQRS.pdb
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\Events.pdb
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\bin\Release\nunit.framework.xml
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\obj\Release\CafeReadModels.csprojAssemblyReference.cache
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\obj\Release\CafeReadModels.csproj.CoreCompileInputs.cache
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\obj\Release\CafeReadModels.csproj.CopyComplete
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\obj\Release\CafeReadModels.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\CafeReadModels\obj\Release\CafeReadModels.pdb

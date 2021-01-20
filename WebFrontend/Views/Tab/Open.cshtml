@@ -1,0 +1,31 @@
+﻿@model Cafe.Tab.OpenTab
+
+@{ ViewBag.Title = "Open Tab"; }
+
+<h2>Open Tab</h2>
+
+@using (Html.BeginForm())
+{
+<fieldset>
+    <label>Booking Number</label>
+    @Html.TextBoxFor(m => m.BookNumber)
+
+    <label>Customer Name</label>
+    @Html.TextBoxFor(m => m.Name)
+
+    <label>Phone</label>
+    @Html.TextBoxFor(m => m.Phone)
+
+    <label>Email</label>
+    @Html.TextBoxFor(m => m.Email)
+
+    <label>Check-in Date</label>
+    @Html.TextBoxFor(m => m.CheckIn)
+
+    <label>Check-out Date</label>
+    @Html.TextBoxFor(m => m.CheckOut)
+
+    <br>
+
+    <button type="submit" class="btn">Open Tab</button>
+</fieldset>}

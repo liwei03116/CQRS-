@@ -1,0 +1,37 @@
+﻿@model Cafe.Tab.OpenTab
+
+@{
+    ViewBag.Title = "Place Order";
+}
+
+<h2>Place Order</h2>
+
+@using (Html.BeginForm())
+{
+  <fieldset>
+    <table class="table">
+      <thead>
+        <tr>
+          <td>Book Number</td>
+          <td>Customer Name</td>
+          <td>Phone</td>
+          <td>Email</td>
+          <td>Check In</td>
+          <td>Check Out</td>
+        </tr>
+      </thead> 
+      <tbody>
+          <tr>
+              <td>
+                  @Model.BookNumber
+                  @Html.HiddenFor(m => m.BookNumber)
+              </td>
+              <td>@Model.Name</td>
+              <td>@Html.TextBoxFor(m => m.Name)</td>
+          </tr>
+      </tbody>
+    </table>
+
+    <button type="submit" class="btn">Place Order</button>
+  </fieldset>
+}

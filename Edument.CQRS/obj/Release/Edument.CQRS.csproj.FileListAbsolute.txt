@@ -1,0 +1,9 @@
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\bin\Release\Edument.CQRS.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\bin\Release\Edument.CQRS.pdb
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\bin\Release\nunit.framework.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\bin\Release\nunit.framework.xml
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\obj\Release\Edument.CQRS.csprojAssemblyReference.cache
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\obj\Release\Edument.CQRS.csproj.CoreCompileInputs.cache
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\obj\Release\Edument.CQRS.csproj.CopyComplete
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\obj\Release\Edument.CQRS.dll
+C:\Users\liwei\Downloads\cqrs-starter-kit-master1\cqrs-starter-kit-master\sample-app\Edument.CQRS\obj\Release\Edument.CQRS.pdb
